@@ -1,0 +1,1 @@
+Highcharts-8.2.2
